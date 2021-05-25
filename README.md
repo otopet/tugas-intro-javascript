@@ -10,7 +10,7 @@ PENJELASAN TUGAS!
 
 KETENTUAN TUGAS!
 
-1. Silahkan Fork repo-master ke akun github masing-masing. Buatlah folder di repo hasil fork dengan penamaan folder npm_namakalian.
+1. Silahkan Fork repo-master ke akun github masing-masing. Buatlah folder di repo hasil fork dengan penamaan folder npm_namakalian_kelas.
 
 2. Silahkan copy paste file tugas dan cobalah di glot.io. Jika dirasa benar, silahkan tulis kode lengkapnya di file kalian.
 
