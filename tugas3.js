@@ -4,6 +4,7 @@ let a = ___;
 let b = ___;
 
 /* AND operator */
+// angka 15 & 10 merupakan angka bebas, silahkan diisi sesuai kreasi kalian
 console.log(a < 15 && b > 10); // (true && true) -> true
 console.log(___); // (false && true) -> false
 
