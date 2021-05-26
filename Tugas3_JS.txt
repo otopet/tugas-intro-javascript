@@ -1,0 +1,14 @@
+a = 40;
+b = 65;
+
+/* And Operator */
+console.log(a<45 && b>40)
+console.log(a>60 && b<40)
+
+/* OR Operator */
+console.log(a<b || b>a)
+console.log(a<20 || b>40)
+
+/* Not Operator */
+console.log(!a)
+console.log(!b)

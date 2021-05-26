@@ -1,0 +1,8 @@
+a = 3;
+b = 5;
+
+x = b>a;
+z = b<a;
+
+console.log(Boolean(x));
+console.log(Boolean(z));
