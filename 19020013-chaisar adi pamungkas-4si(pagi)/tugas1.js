@@ -1,5 +1,5 @@
 
-Nama = Chaisar Adi pamungkas ;
+nama = Chaisar Adi pamungkas ;
 umur     = 20 ;
 ismarried = true;
 
