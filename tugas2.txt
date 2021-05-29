@@ -1,0 +1,6 @@
+const a = 10; 
+const b = 12;
+
+onsole.log("Nilai dari a == b adalah", a == b);
+console.log("Nilai dari a != b adalah", a != b); 
+c
